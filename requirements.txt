@@ -1,0 +1,7 @@
+mutagen==1.47.0
+pygame==2.6.1
+pyinstaller
+requests
+asyncio
+beautifulsoup4
+pywebview
